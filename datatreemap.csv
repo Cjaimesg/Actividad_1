@@ -1,5 +1,5 @@
-﻿name;value
-Sí, estuvo enfermo/a;18601
-Sí, estuvo accidentado/a;569
-No, ha estado sano;38832
-NR;3
+﻿name;parent;value
+Sí, estuvo enfermo/a;Origin;18601
+Sí, estuvo accidentado/a;Origin;569
+No, ha estado sano;Origin;38832
+NR;Origin;3
