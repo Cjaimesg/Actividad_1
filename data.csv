@@ -1,37 +1,37 @@
-﻿seguro,estado,conteo
-IPS,Si, estuvo enfermo/a,3517
-Seguro privado individual,Si, estuvo enfermo/a,103
-Seguro privado laboral,Si, estuvo enfermo/a,112
-Seguro privado familiar,Si, estuvo enfermo/a,648
-Sanidad Militar,Si, estuvo enfermo/a,120
-Sanidad Policial,Si, estuvo enfermo/a,144
-No tiene en ningún lugar,Si, estuvo enfermo/a,13955
-Otro,Si, estuvo enfermo/a,1
-NR,Si, estuvo enfermo/a,1
-IPS,Si, estuvo accidentado/a,140
-Seguro privado individual,Si, estuvo accidentado/a,2
-Seguro privado laboral,Si, estuvo accidentado/a,9
-Seguro privado familiar,Si, estuvo accidentado/a,16
-Sanidad Militar,Si, estuvo accidentado/a,5
-Sanidad Policial,Si, estuvo accidentado/a,3
-No tiene en ningún lugar,Si, estuvo accidentado/a,394
-Otro,Si, estuvo accidentado/a,0
-NR,Si, estuvo accidentado/a,0
-IPS,No, ha estado sano,7245
-Seguro privado individual,No, ha estado sano,205
-Seguro privado laboral,No, ha estado sano,392
-Seguro privado familiar,No, ha estado sano,1537
-Sanidad Militar,No, ha estado sano,199
-Sanidad Policial,No, ha estado sano,363
-No tiene en ningún lugar,No, ha estado sano,28888
-Otro,No, ha estado sano,2
-NR,No, ha estado sano,1
-IPS,NR,0
-Seguro privado individual,NR,0
-Seguro privado laboral,NR,0
-Seguro privado familiar,NR,0
-Sanidad Militar,NR,0
-Sanidad Policial,NR,0
-No tiene en ningún lugar,NR,2
-Otro,NR,0
-NR,NR,1
+﻿seguro;estado;conteo
+IPS;Si, estuvo enfermo/a;3517
+Seguro privado individual;Si, estuvo enfermo/a;103
+Seguro privado laboral;Si, estuvo enfermo/a;112
+Seguro privado familiar;Si, estuvo enfermo/a;648
+Sanidad Militar;Si, estuvo enfermo/a;120
+Sanidad Policial;Si, estuvo enfermo/a;144
+No tiene en ningún lugar;Si, estuvo enfermo/a;13955
+Otro;Si, estuvo enfermo/a;1
+NR;Si, estuvo enfermo/a;1
+IPS;Si, estuvo accidentado/a;140
+Seguro privado individual;Si, estuvo accidentado/a;2
+Seguro privado laboral;Si, estuvo accidentado/a;9
+Seguro privado familiar;Si, estuvo accidentado/a;16
+Sanidad Militar;Si, estuvo accidentado/a;5
+Sanidad Policial;Si, estuvo accidentado/a;3
+No tiene en ningún lugar;Si, estuvo accidentado/a;394
+Otro;Si, estuvo accidentado/a;0
+NR;Si, estuvo accidentado/a;0
+IPS;No, ha estado sano;7245
+Seguro privado individual;No, ha estado sano;205
+Seguro privado laboral;No, ha estado sano;392
+Seguro privado familiar;No, ha estado sano;1537
+Sanidad Militar;No, ha estado sano;199
+Sanidad Policial;No, ha estado sano;363
+No tiene en ningún lugar;No, ha estado sano;28888
+Otro;No, ha estado sano;2
+NR;No, ha estado sano;1
+IPS;NR;0
+Seguro privado individual;NR;0
+Seguro privado laboral;NR;0
+Seguro privado familiar;NR;0
+Sanidad Militar;NR;0
+Sanidad Policial;NR;0
+No tiene en ningún lugar;NR;2
+Otro;NR;0
+NR;NR;1
